@@ -1,0 +1,2 @@
+A symbol with a huge numerical value T (value - 84)
+A symbol with a small numerical value T (value - 84)

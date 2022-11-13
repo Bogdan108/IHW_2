@@ -1,0 +1,2 @@
+A symbol with a huge numerical value w (value - 119)
+A symbol with a small numerical value # (value - 35)

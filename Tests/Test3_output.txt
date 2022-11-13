@@ -1,0 +1,2 @@
+A symbol with a huge numerical value | (value - 124)
+A symbol with a small numerical value  (value - 13)
